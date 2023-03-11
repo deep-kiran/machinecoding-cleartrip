@@ -1,0 +1,7 @@
+
+n
+java:S1104"SMake isFanOn a static final constant or non-public and provide accessors if needed.(ë¸Øëûÿÿÿÿ
+o
+java:S1104"TMake fanSpeed a static final constant or non-public and provide accessors if needed.(ğäÂßøÿÿÿÿ
+=
+java:S1125 "'Remove the unnecessary boolean literal.(³íı

@@ -1,0 +1,28 @@
+
+•
+java:S1319"zThe type of "interfaceSearchServiceHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(ÈÊíàÿÿÿÿÿ
+„
+java:S1104"iMake interfaceSearchServiceHashMap a static final constant or non-public and provide accessors if needed.(ÈÊíàÿÿÿÿÿ
+x
+java:S1104"]Make interfaceToDevice a static final constant or non-public and provide accessors if needed.(‚§×”ıÿÿÿÿ
+^
+java:S1444"CMake this "public static interfaceSearchServiceHashMap" field final(ÈÊíàÿÿÿÿÿ
+R
+java:S1444"7Make this "public static interfaceToDevice" field final(‚§×”ıÿÿÿÿ
+8
+java:S2386"Make this member "protected".(ÈÊíàÿÿÿÿÿ
+8
+java:S2386"Make this member "protected".(‚§×”ıÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+W
+java:S1612"<Replace this lambda with method reference 'Entry::getValue'.(¾€¶£øÿÿÿÿ
+o
+java:S6204""RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÿîã€í0
+R
+java:S1128"0Remove this unused import 'models.RoomLocation'.(øıÑ úÿÿÿÿ8€ïã€í0
+I
+java:S1128",Remove this unused import 'models.SmartFan'.(Ê—€Š8ïã€í0
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ïã€í0

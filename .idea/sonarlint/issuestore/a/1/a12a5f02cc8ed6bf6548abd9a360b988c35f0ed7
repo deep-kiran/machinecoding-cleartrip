@@ -1,0 +1,47 @@
+
+‰
+java:S1319"sThe type of "interfaceDeviceHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(÷¸›Þ
+‹
+java:S1319"pThe type of "roomLocationHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(¼ýÎØüÿÿÿÿ
+Ž
+java:S1319"sThe type of "smartHomeDeviceHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(Æç†°ÿÿÿÿÿ
+
+java:S1319"iThe type of "houseHashMap" should be an interface such as "Map" rather than the implementation "HashMap".(²™Âæ
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(äõà·üÿÿÿÿ
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ìëº¥ýÿÿÿÿ
+ˆ
+java:S1319%"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Íò‡Ôÿÿÿÿÿ
+ˆ
+java:S1319+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(à—÷âûÿÿÿÿ
+x
+java:S1104"bMake interfaceDeviceHashMap a static final constant or non-public and provide accessors if needed.(÷¸›Þ
+s
+java:S1104"]Make interfaceToDevice a static final constant or non-public and provide accessors if needed.(º§å­
+z
+java:S1104"_Make roomLocationHashMap a static final constant or non-public and provide accessors if needed.(¼ýÎØüÿÿÿÿ
+}
+java:S1104"bMake smartHomeDeviceHashMap a static final constant or non-public and provide accessors if needed.(Æç†°ÿÿÿÿÿ
+n
+java:S1104"XMake houseHashMap a static final constant or non-public and provide accessors if needed.(²™Âæ
+R
+java:S1444"<Make this "public static interfaceDeviceHashMap" field final(÷¸›Þ
+M
+java:S1444"7Make this "public static interfaceToDevice" field final(º§å­
+T
+java:S1444"9Make this "public static roomLocationHashMap" field final(¼ýÎØüÿÿÿÿ
+W
+java:S1444"<Make this "public static smartHomeDeviceHashMap" field final(Æç†°ÿÿÿÿÿ
+H
+java:S1444"2Make this "public static houseHashMap" field final(²™Âæ
+L
+java:S2386"1Make member "interfaceDeviceHashMap" "protected".(¯ü£åýÿÿÿÿ
+I
+java:S2386 ".Make member "roomLocationHashMap" "protected".(‹Ý‚Çýÿÿÿÿ
+<
+java:S2386'"'Make member "houseHashMap" "protected".(™Ûø
+L
+java:S2386-"1Make member "smartHomeDeviceHashMap" "protected".(­êÌúÿÿÿÿ
+B
+java:S23865",Make member "interfaceToDevice" "protected".(žÈÚà
